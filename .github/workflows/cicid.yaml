@@ -1,0 +1,6 @@
+name: CI & CD Deploy
+
+on:
+  push:
+    branches:
+      - "master"
